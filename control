@@ -1,5 +1,5 @@
 Package: com.ezio.dingtalkhack
-Name: DingTalkHelper
+Name: DingTalkHack
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
